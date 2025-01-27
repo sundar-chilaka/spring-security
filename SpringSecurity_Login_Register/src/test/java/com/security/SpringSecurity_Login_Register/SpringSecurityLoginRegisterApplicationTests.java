@@ -1,10 +1,10 @@
-package com.security.springSecurity;
+package com.security.SpringSecurity_Login_Register;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringSecurityApplicationTests {
+class SpringSecurityLoginRegisterApplicationTests {
 
 	@Test
 	void contextLoads() {
